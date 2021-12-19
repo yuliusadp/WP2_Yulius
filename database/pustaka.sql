@@ -124,7 +124,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `nama`, `email`, `image`, `password`, `role_id`, `is_active`, `tanggal_input`) VALUES
-(1, 'Biru Epa Damainingati', 'birudamai37@gmail.com', 'default.jpg', '$2y$10$WFxe0VRq5FcVuu249pfkVe.FCSiG/LEtd8V3FZgkU1UiI6XW7fIuO', 2, 1, 1633509900);
+(1, 'Yulius', 'yuliuscaesar28@gmail.com', 'default.jpg', '$2y$10$WFxe0VRq5FcVuu249pfkVe.FCSiG/LEtd8V3FZgkU1UiI6XW7fIuO', 2, 1, 1633509900);
 
 --
 -- Indexes for dumped tables
